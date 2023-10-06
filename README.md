@@ -1,3 +1,3 @@
-I'm Akshay R
+Akshay R
 
 Aspiring programmer.
