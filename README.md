@@ -1,3 +1,1 @@
-Akshay R
-
 Aspiring programmer.
