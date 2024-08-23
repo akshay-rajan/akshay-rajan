@@ -1,7 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=49F781&random=false&width=435&lines=Hello!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=49F781&random=false&width=435&lines=Programmer)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akshay-rajan&theme=shadow-green&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=akshay-rajan&theme=shadow-green&hide_border=true)](https://git.io/streak-stats)-->
 
 [![My Skills](https://skillicons.dev/icons?i=django,react,jquery,js,rust,mongodb,java,python,c,linux)](https://skillicons.dev)
 
