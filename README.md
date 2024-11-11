@@ -9,4 +9,4 @@
 <a href="https://akshay-rajan.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)<a>
 <a href="https://leetcode.com/akshayrajan/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)<a>-->
 
-![alt](./files/wave.svg)
+![alt](./files/waves.svg)
